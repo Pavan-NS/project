@@ -1,0 +1,33 @@
+.services-container {
+  background-color: rgb(236, 232, 226);
+  border-radius: 8px;
+  width: 100%;
+}
+
+h1 {
+  color: black;
+  font-weight: bold;
+  font-style: normal;
+  padding: 15px;
+  font-size: 25px;
+}
+p {
+  color: black;
+  font-weight: bold;
+  font-style: normal;
+  padding: 15px;
+}
+.logo {
+  width: 80px;
+}
+.div {
+  display: flex;
+  justify-content: space-between;
+  margin: 55px;
+}
+.d {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}

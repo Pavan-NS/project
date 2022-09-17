@@ -1,0 +1,66 @@
+.app-container {
+  min-height: 100vh;
+  padding: 25px;
+}
+.bottom-section {
+  display: flex;
+}
+.pic {
+  width: 250px;
+  background-color: transparent;
+}
+.profile {
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+}
+.app-logo {
+  width: 50px;
+  margin-right: 15px;
+}
+.name {
+  color: black;
+  font-size: 25px;
+  font-weight: 500;
+  padding-bottom: 0px;
+}
+.role {
+  color: black;
+  font-size: 25px;
+  font-weight: 350;
+  margin-top: 0px;
+}
+.company {
+  color: black;
+  font-size: 25px;
+  font-weight: 500;
+  margin-top: 0px;
+}
+.social-media {
+  display: flex;
+
+  justify-content: center;
+}
+.social {
+  align-self: center;
+  width: 50px;
+  margin-left: 15px;
+}
+.portfolio-container {
+  background-color: rgb(236, 232, 226);
+  border-radius: 8px;
+  width: 100%;
+}
+.portfolio {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.logo-5 {
+  width: 500px;
+  padding: 20px;
+}
+.png {
+  width: 250px;
+}

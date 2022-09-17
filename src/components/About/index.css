@@ -1,0 +1,17 @@
+.about-section {
+  background-color: rgb(33, 9, 245);
+  border-radius: 8px;
+}
+.heading {
+  color: #ffffff;
+  font-weight: 600;
+  font-family: 'Roboto';
+  padding: 15px;
+}
+.para {
+  color: #ffffff;
+  font-weight: 500;
+  font-family: 'Roboto';
+  padding: 15px;
+  margin-top: 0%;
+}
